@@ -8,9 +8,12 @@
 ```
 2. Install the required dependencies:
 <br />
+
     ```bash
-    cd QuizApp
+    
+    cd zenduty-pizza-app
     pip install -r requirements.txt
+    
    ```
 <br />3. Apply the database migrations:
      ```bash
