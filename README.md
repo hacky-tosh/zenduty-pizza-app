@@ -174,7 +174,7 @@ _________________________________________________
 <br /># Get Order Status By order Id
 
 <br />Endpoint: /api/order-status/<int:orderId>
-            Ex: /api/order-status/1
+  <br />          Ex: /api/order-status/1
                 
 <br />Method: GET
 
