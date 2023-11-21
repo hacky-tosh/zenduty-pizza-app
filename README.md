@@ -235,7 +235,7 @@ _________________________________________________
 
 ```
 
-<br /> After 3 Min
+<br /> After 5 Min
 
 <br />Response Body:
 
@@ -254,7 +254,7 @@ _________________________________________________
 
 
 
-
+Note: I have also included the postman collection file to test the api's
 
 
 
