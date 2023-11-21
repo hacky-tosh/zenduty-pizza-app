@@ -11,14 +11,15 @@
 
     ```bash
     
-    cd zenduty-pizza-app
-    pip install -r requirements.txt
-    
-   ```
+      cd zenduty-pizza-app
+      pip install -r requirements.txt
+     
+    ```
 <br />3. Apply the database migrations:
      ```bash
      python manage.py makemigrations
      python manage.py migrate
+     ```
 
 <br />4. Run the development server:
 ```bash
