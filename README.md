@@ -16,14 +16,16 @@
      
     ```
 <br />3. Apply the database migrations:
-     ```bash
-     python manage.py makemigrations
-     python manage.py migrate
+     ```bash 
+     
+         python manage.py makemigrations
+         python manage.py migrate
+     
      ```
 
 <br />4. Run the development server:
 ```bash
-   python manage.py runserver
+      python manage.py runserver
 ```
 In another terminal
 ```bash
