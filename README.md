@@ -32,6 +32,8 @@ In another terminal
    python -m celery -A pizzeria worker
 ```
 
+Please Ensure Redis server is running.
+
 <br />The application will be accessible at http://localhost:8000/.
 
 
